@@ -10,8 +10,7 @@
 		<fileSet>
 			<directory>src/main/resources</directory>
 			<includes>
-				<include>*.properties</include>
-				<include>logback.xml</include>
+				<include>*.*</include>
 			</includes>
 			<filtered>true</filtered>
 			<outputDirectory>\</outputDirectory>
